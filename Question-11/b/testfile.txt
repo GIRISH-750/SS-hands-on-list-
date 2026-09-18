@@ -1,0 +1,3 @@
+Original file
+Written using fd1
+Written using fd2
